@@ -34,6 +34,6 @@ THEN the password is either displayed in an alert or written to the page
 
 ### Link to deployed URL
 
-[Deployed URL](https://ss0110.github.io/module-1-challenge/)
+[Deployed URL](https://ss0110.github.io/password-generator/)
 
-[Github](https://github.com/Ss0110/module-1-challenge.git)
+[Github](https://github.com/Ss0110/password-generator)
